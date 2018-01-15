@@ -1,0 +1,3 @@
+NiCoLaS	bauer	San Francisco	78097	192.168.0.42	bauerdu93@live.fr
+NICOLAS	BAUER	Los Angeles	37033	583-686-42	admindu@ctu.com
+Nicolas	BauEr	Hodkiewicz	(947)834-5402	nicolas.bauer@aol.com
